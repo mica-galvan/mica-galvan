@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mica-galvan&show_icons=true&locale=en&layout=compact" alt="mica-galvan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mica-galvan&show_icons=true&locale=en" alt="mica-galvan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mica-galvan&" alt="mica-galvan" /></p>
 
